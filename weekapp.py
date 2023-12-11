@@ -7,7 +7,7 @@ def display_substrings(input_string):
 st.title("Display Substrings")
 
 # Input box for the user to enter a string
-input_string = st.text_input("Enter a string:)
+input_string = st.text_input("Enter a string:")
 
 # Display the sequence of substrings
 substrings = display_substrings(input_string)
